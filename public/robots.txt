@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pbi101-7f94f057.zappy5.app/sitemap.xml
